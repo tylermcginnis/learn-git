@@ -6,7 +6,7 @@ Just a basic repository for learning git.
 Welcome to the repo!
 
 Contributors:
-* Cahlan Sharp
+* t:ahlan Sharp
 * Wesley Moss
 * Greg Roberts
 * Miles Victors
